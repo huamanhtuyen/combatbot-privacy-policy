@@ -1,2 +1,2 @@
-# logiw-privacy-policy
-LogiW privacy policy
+# combatbot-privacy-policy
+Combat AI bot privacy policy
